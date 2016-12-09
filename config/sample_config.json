@@ -1,0 +1,6 @@
+{
+    "telegramBotToken": "xxx",
+    "dataStoreFile": "data.json",
+    "timeFormat": "HH:mm:ss",
+    "dateTimeFormat": "DD.MM.YYYY HH:mm:ss"
+}
