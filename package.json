@@ -1,0 +1,18 @@
+{
+  "name": "brainbot",
+  "version": "1.0.0",
+  "description": "Telegram Bot for activity tracking",
+  "main": "app.js",
+  "dependencies": {
+    "config": "^1.24.0",
+    "lodash": "^4.17.2",
+    "moment": "^2.17.1",
+    "node-telegram-bot-api": "^0.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Kirchweger",
+  "license": "ISC"
+}
